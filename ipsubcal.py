@@ -224,7 +224,7 @@ def Ip_process():
     
     try:
 
-        targetaddress=input("Enter your ip address ...  ")
+        targetaddress=input("Enter your ip address ...  ex:0.0.0.0/0..? ")
         
         ip_subnet_splitting=targetaddress.split("/")
         
