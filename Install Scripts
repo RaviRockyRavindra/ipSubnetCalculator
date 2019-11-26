@@ -1,0 +1,7 @@
+import PrettyTable
+
+## PrettyTable imported to present the resultant data with proper information 
+
+import time
+
+## make stars to sleep for 1 
